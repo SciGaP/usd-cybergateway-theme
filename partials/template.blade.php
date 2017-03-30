@@ -8,7 +8,7 @@
 </div>
 
 <div class="col-md-offset-2 col-md-8 breathing-space scigap-info">
-	<h1 class="text-center">What is SciGaP?</h1>
+	<h1 class="text-center">Welcome to research computing at the University of South Dakota!</h1>
 	<p class="text-center" style="color:#cccccc;">
 		Science Gateways are easy to build but hard to sustain. Key developers come and go. Scaling up to support growing user communities and more demanding usage takes a lot of work. Things go wrong at the worst times. SciGaP's goal is to help gateways address these problems.<br/>
 	</p>
