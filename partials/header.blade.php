@@ -8,7 +8,7 @@
             <span class="icon-bar"></span>
           </button>
           <a class="navbar-brand scroll" href="{{ URL::to('/') }}">
-            <span class="scigap-logo"><img src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/scigap-logo.png"/></span>
+            <span class="scigap-logo"><img src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/logo1.png"/></span>
           </a>
         </div>
         <div class="collapse navbar-collapse">
