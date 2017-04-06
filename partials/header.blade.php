@@ -1,4 +1,4 @@
-<title> ScienceGateway! | USD </title>
+<title> ScienceGateway | USD </title>
 <div id="navbar" class="navbar navbar-inverse">
       <div class="container-fluid">
         <div class="navbar-header">
