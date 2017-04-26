@@ -13,7 +13,7 @@
 <!--	<p class="text-center" style="color:#cccccc;">	-->
 <!--		Science Gateways are easy to build but hard to sustain. Key developers come and go. Scaling up to support growing user communities and more demanding usage takes a lot of work. Things go wrong at the worst times. SciGaP's goal is to help gateways address these problems.<br/>	-->
 <!--	</p>	-->
-	<hr/>	-->
+	<hr/>	
 <!--	<div class="col-md-5">	-->
 	<p style="font-size:14px; margin-top:20px;">
 		If you need help, you can find it on USD's <a href="http://usdrcg.github.io">Research Computing site</a>.
@@ -37,7 +37,7 @@
 <!-- 		</p>	-->
 <!-- 		<hr/>	-->
 <!-- 		<div class="row" style="margin:60px 0;">	-->
-<!-- 	-->
+
 <!-- 			<div class="col-md-4">	-->
 <!-- 				<span class="feature-icon-img"><img src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/shield.png" width="60%"/></span>	-->
 <!-- 				<h4>Shield from complexity <br/>of resources</h4>	-->
