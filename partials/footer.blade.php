@@ -31,7 +31,7 @@
 </div>
 <div class="blue-bg col-md-12 old-collaborators">
 	
-	<img src="http://usdrcg.github.io/assets/img/logo_long.png">
+	<img class="aligncenter" img width="500px" src="{{URL::to('/')}}/themes/{{Session::get('theme')}}/assets/img/logo_long.png" alt="">
 	
 	
 </div>
