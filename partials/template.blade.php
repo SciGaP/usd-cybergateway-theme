@@ -13,10 +13,10 @@
 <!--	<p class="text-center" style="color:#cccccc;">	-->
 <!--		Science Gateways are easy to build but hard to sustain. Key developers come and go. Scaling up to support growing user communities and more demanding usage takes a lot of work. Things go wrong at the worst times. SciGaP's goal is to help gateways address these problems.<br/>	-->
 <!--	</p>	-->
-	<hr/>	
+<!--	<hr/>	-->
 <!--	<div class="col-md-5">	-->
 	<p style="font-size:14px; margin-top:20px;">
-		If you need help, you can find it on USD's <a href="http://usdrcg.github.io">Research Computing site</a>.
+		<h3>If you need help, you can find it on USD's <a href="http://usdrcg.github.io">Research Computing site</a>.</h3>
 	</p>
 <!--	</div>	-->
 <!--	<div class="col-md-offset-1 col-md-5">	-->
