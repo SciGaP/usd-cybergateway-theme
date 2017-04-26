@@ -24,7 +24,7 @@
 
 
 
-<!-- 
+ 
 
 <div class="col-md-12">
 <!-- <h3 class="text-center">Seagrid has evolved from previous invaluable collaborations.</h3> -->
@@ -36,7 +36,7 @@
 	
 </div>
 
--->
+
 
 <script type="text/javascript">
 	if( bw > 767){
