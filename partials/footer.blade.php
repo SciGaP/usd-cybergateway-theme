@@ -31,7 +31,7 @@
 </div>
 <div class="blue-bg col-md-12 old-collaborators">
 	
-	<img src="../assets/img/logo_long.png">
+	<img src="http://usdrcg.github.io/assets/img/logo_long.png">
 	
 	
 </div>
