@@ -8,7 +8,7 @@
 </div>
 
 <div class="col-md-offset-2 col-md-8 breathing-space scigap-info">
-	<h1 class="text-center">Welcome to research computing</h1>
+	<h1 class="text-center">Welcome to research computing!!</h1>
 	<h1 class="text-center">at the University of South Dakota!</h1>
 	<h3 class="text-center">If you need help, you can find it on USD's <a href="http://usdrcg.github.io">Research Computing site</a>.</h3>
 <!--	<p class="text-center" style="color:#cccccc;">	-->
