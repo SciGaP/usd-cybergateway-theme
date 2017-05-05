@@ -36,7 +36,7 @@ body{
 }
 
 .hero-unit {
-	width: 50%;
+	width: 35%;
     background:url('../img/herobanner_narrow.png') no-repeat center center;
     background-size:cover;
   }
