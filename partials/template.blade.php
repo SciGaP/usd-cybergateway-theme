@@ -1,10 +1,4 @@
-<div class="col-md-12 hero-unit scigap-top">
-	
-	<h1>Hero Image - WHERE?</h1>
-	<h2>This is a simple hero unit, a simple jumbotron-style component for calling extra 7
-	attention to featured content or information.</h2>
-	
-</div>
+
 
 <div class="col-md-offset-2 col-md-8 breathing-space scigap-info">
 	<h1 class="text-center">Welcome to research computing!!</h1>
@@ -17,3 +11,12 @@
 <a href="{{ URL::to('/') }}/create">	
 <button class="btn btn-primary btn-lg" style="border-radius:0; background-color:#525760; margin-top:10px;">Create Account</button></a>	
 </div>	
+
+
+<div class="col-md-12 hero-unit scigap-top">
+	
+	<h1>Hero Image - WHERE?</h1>
+	<h2>This is a simple hero unit, a simple jumbotron-style component for calling extra 7
+	attention to featured content or information.</h2>
+	
+</div>
