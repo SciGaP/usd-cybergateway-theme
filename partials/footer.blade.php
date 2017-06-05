@@ -38,8 +38,8 @@
 
 
 
-<script type="text/javascript">
-	if( bw > 767){
-        $(".hero-unit").height( bw*0.50);
-    }
-</script>
+<!-- <script type="text/javascript">           -->
+<!--	if( bw > 767){			       -->
+<!--        $(".hero-unit").height( bw*0.50);       -->
+<!--    }					       -->
+<!-- </script>				       		-->
