@@ -1,7 +1,7 @@
 <div class="container">       
 				
                 
-<h1 class="text-center top-space">About SciGaP</h1>
+<h1 class="text-center top-space">About Science Gateway at USD</h1>
 
                  
 <div class="post-entry">
