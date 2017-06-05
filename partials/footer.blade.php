@@ -31,15 +31,15 @@
 </div>
 <div class="blue-bg col-md-12 old-collaborators">
 	
-	<img class="aligncenter" img width="500px" src="{{URL::to('/')}}/themes/{{Session::get('theme')}}/assets/img/logo_long.png" alt="">
+<!-- <img class="aligncenter" img width="500px" src="{{URL::to('/')}}/themes/{{Session::get('theme')}}/assets/img/logo_long.png" alt=""> -->
 	
 	
 </div>
 
 
 
-<!-- <script type="text/javascript">           -->
-<!--	if( bw > 767){			       -->
-<!--        $(".hero-unit").height( bw*0.50);       -->
-<!--    }					       -->
-<!-- </script>				       		-->
+<script type="text/javascript">           
+    if( bw > 767){			       
+        $(".hero-unit").height( bw*1.0);       
+    }					       
+ </script>				       		
