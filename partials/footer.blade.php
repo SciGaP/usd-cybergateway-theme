@@ -40,6 +40,6 @@
 
 <script type="text/javascript">           
     if( bw > 767){			       
-        $(".hero-unit").height( bw*0.75);       
+        $(".hero-unit").height( bw*0.15);       
     }					       
  </script>				       		
