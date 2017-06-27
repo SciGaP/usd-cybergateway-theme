@@ -1,5 +1,5 @@
 # usd-cybergateway-theme
-Theme for University of South Dakota Portal Theme
+Theme for University of South Dakota Science Gateway
 
 The Gateway is deployed at https://sciencegateway.usd.edu/
 
