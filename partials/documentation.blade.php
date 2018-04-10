@@ -15,4 +15,4 @@ div class="container">
 
 <div class="post-edit"></div>  				               
 				      
-</div>
+			</div>
