@@ -1,13 +1,11 @@
 div class="container">       
 				
                 
-<h1 class="text-center top-space">About Science Gateway at USD</h1>
+<h1 class="text-center top-space">Documentation</h1>
 
                  
 <div class="post-entry">
-<p dir="ltr">Science Gateways are virtual environments that accelerate scientific discovery by enabling scientific communities to utilize distributed computational and data resources (that is, cyberinfrastructure). Successful Science Gateways provide access to sophisticated and powerful resources, while shielding their users from the resources’ complexities.</p>
-
-<p dir="ltr">Research Computing at USD wants you to be able to focus on the science. This gateway will allow users to experience the benefits of large computational resources for analyzing their data in a user friendly environment.</p>
+<p dir="ltr">Here you will find the documentation necessary for getting started on the USD Science Gateway. The Science Gateway currently supports the submission of computational tasks with the software in widest use by USD faculty and staff.</p>
 
 </div><!-- end of .post-entry -->
             
