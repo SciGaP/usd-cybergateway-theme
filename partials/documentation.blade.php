@@ -9,11 +9,13 @@
 
 <p dir="ltr">The USD Science Gateway currently supports the following software applications for use on the Lawrence cluter: </p>
 
-<p dir="ltr">Mothur-Used for analysis of microbial DNA sequence datasets.
+<p dir="ltr">Mothur</p>
 
-<p dir="ltr">NWChem
+<p dir="ltr">QIIME</p>
 
-<p dir="ltr">Gaussian
+<p dir="ltr">NWChem</p/>
+
+<p dir="ltr">Gaussian</p>
 
 </div><!-- end of .post-entry -->
             
